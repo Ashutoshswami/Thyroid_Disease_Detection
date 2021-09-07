@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run thyroid
+web: sh setup.sh && streamlit run thyroid.py
