@@ -1,8 +1,12 @@
 # Thyroid_Disease_Detection
 ![image](https://user-images.githubusercontent.com/76562485/132291199-97779575-12ee-4efe-9ab0-ec825fccec39.png)
+
 ![image](https://user-images.githubusercontent.com/76562485/132291243-b3ef73e4-7490-411c-8d7b-59d318ebbc8b.png)
+
 ![image](https://user-images.githubusercontent.com/76562485/132291290-e187a3de-4258-4b89-9e99-327f129fdd29.png)
+
 ![image](https://user-images.githubusercontent.com/76562485/132290577-7688f047-8f1e-49a2-815a-609ef72dd7bc.png)
+
 
 ## Business Problem Statement :
   Thyroid disease is a common cause of medical diagnosis and prediction, with an onset that is difficult to forecast in medical research. The thyroid gland is one of our body's most vital organs. Thyroid hormone releases are responsible for metabolic regulation. Hyperthyroidism and hypothyroidism are one of the two common diseases of the thyroid that releases thyroid hormones in regulating the rate of body's metabolism.The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid  disease or not.
