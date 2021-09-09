@@ -1,13 +1,12 @@
 # Thyroid_Disease_Detection
 
-![image](https://user-images.githubusercontent.com/76562485/132291199-97779575-12ee-4efe-9ab0-ec825fccec39.png)   ![image](https://user-images.githubusercontent.com/76562485/132675315-a7b4ff72-5aef-4219-aa6c-731356b3d398.png)
+![image](https://user-images.githubusercontent.com/76562485/132291199-97779575-12ee-4efe-9ab0-ec825fccec39.png)                                        ![image](https://user-images.githubusercontent.com/76562485/132675315-a7b4ff72-5aef-4219-aa6c-731356b3d398.png)
 
 
-![image](https://user-images.githubusercontent.com/76562485/132291243-b3ef73e4-7490-411c-8d7b-59d318ebbc8b.png)
+![image](https://user-images.githubusercontent.com/76562485/132291243-b3ef73e4-7490-411c-8d7b-59d318ebbc8b.png)                                         ![image](https://user-images.githubusercontent.com/76562485/132291290-e187a3de-4258-4b89-9e99-327f129fdd29.png)
 
-![image](https://user-images.githubusercontent.com/76562485/132291290-e187a3de-4258-4b89-9e99-327f129fdd29.png)
+![image](https://user-images.githubusercontent.com/76562485/132290577-7688f047-8f1e-49a2-815a-609ef72dd7bc.png)                                          ![image](https://user-images.githubusercontent.com/76562485/132675805-e05a8b63-f05a-4470-987e-a035354fa177.png)
 
-![image](https://user-images.githubusercontent.com/76562485/132290577-7688f047-8f1e-49a2-815a-609ef72dd7bc.png)
 
 
 ## Business Problem Statement :
