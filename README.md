@@ -1,6 +1,6 @@
 # Thyroid_Disease_Detection
 
-![image](https://user-images.githubusercontent.com/76562485/132291199-97779575-12ee-4efe-9ab0-ec825fccec39.png)
+![image](https://user-images.githubusercontent.com/76562485/132291199-97779575-12ee-4efe-9ab0-ec825fccec39.png)    https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FAdolescentGenerousBoilweevil-max-1mb.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fthyroid-gifs&tbnid=pP9dQhyWlEpwYM&vet=12ahUKEwi_5t-o3_HyAhW7CLcAHXb0BdgQMygAegUIARCqAQ..i&docid=hoSEjmqu5FyN-M&w=240&h=138&q=gif%20for%20thyroid%20detection%20using%20ml&ved=2ahUKEwi_5t-o3_HyAhW7CLcAHXb0BdgQMygAegUIARCqAQ
 
 ![image](https://user-images.githubusercontent.com/76562485/132291243-b3ef73e4-7490-411c-8d7b-59d318ebbc8b.png)
 
