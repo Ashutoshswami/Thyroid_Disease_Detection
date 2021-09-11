@@ -1,4 +1,5 @@
 # Thyroid_Disease_Detection
+According to statistics, thyroid disorders are on the rise in India. Approximately 1 in 10 Indian adults suffer from thyroid problem. It has been estimated that around 42 million peoples suffer from thyroid disease. Predicting thyroid disorder by doctor is a tedious process which might lead to negative prediction, only experienced doctor can examine the case properly. To assist doctors machine learning can help them in diagnosis of disease and reduces their burden.
 
 ![image](https://user-images.githubusercontent.com/76562485/132291199-97779575-12ee-4efe-9ab0-ec825fccec39.png)                                        ![image](https://user-images.githubusercontent.com/76562485/132675315-a7b4ff72-5aef-4219-aa6c-731356b3d398.png)
 
